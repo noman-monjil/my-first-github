@@ -1,6 +1,7 @@
-
+# 1.one time each project to start git
 git init
-git add README.md
+# 2. git add every time to add somthing
+git add .
 git commit -m "first commit"
 git branch -M main
 git remote add origin https://github.com/noman-monjil/my-first-github.git
